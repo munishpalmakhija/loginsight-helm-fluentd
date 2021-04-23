@@ -1,0 +1,1 @@
+# loginsight-helm-fluentd
