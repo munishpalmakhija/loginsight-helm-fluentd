@@ -2,11 +2,11 @@ apiVersion: v1
 entries:
   loginsight-helm-fluentd:
   - apiVersion: v2
-    created: "2021-04-23T20:36:46.869563998Z"
+    created: "2021-04-23T22:20:01.97993797Z"
     description: A Helm chart to push Kubernetes Logs to vRealize Log Insight.
-    digest: b35b60b001195170caf4842fa7dd2ab616458d5648428e6af8207de46cd8af23
+    digest: b4bbf774c7286fce479afa1479ddadf7550406315a9775d5e7695698ef5c3c44
     name: loginsight-helm-fluentd
     urls:
-    - https://github.com/munishpalmakhija/loginsight-helm-fluentd/loginsight-helm-fluentd-0.1.0.tgz
+    - https://munishpalmakhija.github.io/loginsight-helm-fluentd/loginsight-helm-fluentd-0.1.0.tgz
     version: 0.1.0
-generated: "2021-04-23T20:36:46.86920883Z"
+generated: "2021-04-23T22:20:01.97953895Z"
